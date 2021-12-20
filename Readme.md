@@ -13,7 +13,7 @@ In this example we are going to use the following tools:
 * [CML](https://developer.cisco.com/docs/modeling-labs/) for virtualizing our lab environment
 * [pyATS](https://pubhub.devnetcloud.com/media/pyats/docs/) for writing and running our test cases
 
-The next section will give a brief overview of how to setup these components. This guide is meant to be consumed together with the recording. Ülease refer to the session for more in-depth explanations.
+The next section will give a brief overview of how to setup these components. This guide is meant to be consumed together with the recording. Please refer to the session for more in-depth explanations.
 
 <div align="right">
    
